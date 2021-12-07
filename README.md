@@ -34,3 +34,7 @@ increment(number: Array<digit>): Array<digit> { /* ... */ }
 - Quality of the code
 - Scalability of the algorithm
 - Usage of good practices and modern programming language features
+
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
